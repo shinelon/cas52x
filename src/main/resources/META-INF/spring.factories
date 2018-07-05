@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.pay.cas.server.config.DataSourceConfig,\
+  org.apereo.cas.config.CasEmbeddedContainerTomcatConfiguration
